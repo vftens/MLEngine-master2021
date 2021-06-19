@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="MLEngine.exe.manifest" size="33788">
+    <dependentAssembly dependencyType="install" codebase="MLEngine.exe.manifest" size="42043">
       <assemblyIdentity name="MLEngine.exe" version="1.0.2.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9mwQh2Q9XnF3pvsUqtZ0Le1zQf/B6BBHJk6n3aGaxXI=</dsig:DigestValue>
+        <dsig:DigestValue>gQfS5kjvaKUwMXobBVl7A38OqBFeLdcou4LCdJbD+p4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
