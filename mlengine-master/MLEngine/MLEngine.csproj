@@ -344,6 +344,23 @@
   <ItemGroup>
     <Folder Include="Source\Java\JButerin\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Source\IrPython\Bot\062 autocomplete_widget.py" />
+    <Content Include="Source\IrPython\Bot\062 binance.py" />
+    <Content Include="Source\IrPython\Bot\062 bitmex.py" />
+    <Content Include="Source\IrPython\Bot\062 database.py" />
+    <Content Include="Source\IrPython\Bot\062 logging_component.py" />
+    <Content Include="Source\IrPython\Bot\062 main.py" />
+    <Content Include="Source\IrPython\Bot\062 models.py" />
+    <Content Include="Source\IrPython\Bot\062 root_component.py" />
+    <Content Include="Source\IrPython\Bot\062 scrollable_frame.py" />
+    <Content Include="Source\IrPython\Bot\062 strategies.py" />
+    <Content Include="Source\IrPython\Bot\062 strategy_component.py" />
+    <Content Include="Source\IrPython\Bot\062 styling.py" />
+    <Content Include="Source\IrPython\Bot\062 trades_component.py" />
+    <Content Include="Source\IrPython\Bot\062 utils.py" />
+    <Content Include="Source\IrPython\Bot\062 watchlist_component.py" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

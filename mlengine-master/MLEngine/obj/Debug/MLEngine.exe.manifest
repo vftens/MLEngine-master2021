@@ -367,14 +367,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MLEngine.exe" size="2713088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MLEngine.exe" size="2713600">
       <assemblyIdentity name="MLEngine" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0jLmgZTwY4CGQBP8D4+OJM34phT10exVPeFDDjPuB+4=</dsig:DigestValue>
+        <dsig:DigestValue>fV1cKZf6PCiPin8vI6X8zcjkJQG99+8X8C5dksJ/OWI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -739,6 +739,141 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>IKD4M1DjfXTYCuCAJd7TEwFNf4SxUo/XqBr/C8wCp9o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 autocomplete_widget.py" size="3723">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EG1X4uW8X78SMijjJiiaw50L6haMGDPCuEJ/W6wIt2Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 binance.py" size="19018">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Mpjqk+QuqPX8H68KkqTQYg6c5DhlRPCn2h8ILODfQm0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 bitmex.py" size="12189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>o/sQdZKnPle2rFSnwLUB+9K4cvMKaaHtX9qQGJD29oM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 database.py" size="1913">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pMcIm2GUm/k7oKid/kiJu/CMm4PxSVojQYxRpLMv1mY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 logging_component.py" size="1009">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>te2GLwVVh+ZC6kw/QTDJeU7zbvnBoE0m9Ki59JY3qUo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 main.py" size="1241">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>neXbXbtbNeBXzFn0FxkOvp2S0Slq1TPdpf0+ePuzn6U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 models.py" size="6174">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PhzZNsditC8i9jWrcXNk80KRnT1BYHxHT1Q/Wt5EYZQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 root_component.py" size="9295">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LvJEvLeost+uVO2l9rmulmRNewj28Rx+EPUaA01WUI0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 scrollable_frame.py" size="2360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hpd3F7ehlEFTh9cahbN1DFzVyzssE5aUG49lTJ+4NpM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 strategies.py" size="13339">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mulMdQrmDOI4ZPTmAR0vJ1/dOXcIEGsKfFf2ihdzReo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 strategy_component.py" size="16944">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ATffsdFZ97aNOErVSUvTH5XFPmzjQzn80eD25l0h8q0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 styling.py" size="259">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0NPkQnTuOLKZzqTLL5HLsiFSOfIxArNezm9yx6HWWF4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 trades_component.py" size="5286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Df8mTxV9UpaSDLorrn8Gin40J+5WT2YH2Q2P5d9GZnI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 utils.py" size="904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8o1Y3CdUsnCV3dpsUD4t13YTFZCUuL+mFFaJPll6VnE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Source\IrPython\Bot\062 watchlist_component.py" size="6211">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yXypy0XeGnNba6tJW5sU2fMtCuZrdf6u5a246n2iRXE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SymSgdNative.dll" size="61824">
